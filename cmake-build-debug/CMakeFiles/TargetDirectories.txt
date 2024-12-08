@@ -1,3 +1,0 @@
-/Users/akabynda/CLionProjects/PosixPingPong/cmake-build-debug/CMakeFiles/PosixPingPong.dir
-/Users/akabynda/CLionProjects/PosixPingPong/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/akabynda/CLionProjects/PosixPingPong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
