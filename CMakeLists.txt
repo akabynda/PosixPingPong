@@ -3,4 +3,4 @@ project(PosixPingPong)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(PosixPingPong ping_pogn.cpp)
+add_executable(PosixPingPong ping_pong.cpp)
